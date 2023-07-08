@@ -9,7 +9,7 @@ public class Main {
 
         FeatureSun Adam=new FeatureSun();
         Adam.name="poya";
-        Adam.temp=12344231 celcius;
+        Adam.temp= "1234423 celcius";
         Adam.size="32942Km";
     }
 }
